@@ -1,7 +1,7 @@
 # Portfolio
-Repozytorium to zawiera 3 projekty:
-- luacpp - parser języka lua
-- minesweeperai - klon gry minesweeper wraz z kilkoma wersjami sztucznej inteligencji zdolnej do grania w tą grę
-- nebulabrotgen - wielowątkowy generator fraktali typu nebulabrot
+The repository conetains 3 projects:
+- luacpp - lua programming language parser
+- minesweeperai - minesweeper clone with a few veriants of artificial intelligence that can play it
+- nebulabrotgen - multithreaded nebulabrot fractal generator
 
-Wszystkie projekty powinny się kompilować pod MSVC 2019 i GCC 8. Do projektu minesweeperai może być potrzebne przygotowanie biblioteki SFML 2.5.1 albo w ścieżce bibliotek kompilatora albo w katalogu lib.
+All projects should compile under MSVC 2019 and GCC 8. To compile minesweeperai it may be necessary to configure SFML 2.5.1 library in the compiler library path or in project lib directory.
